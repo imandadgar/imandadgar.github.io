@@ -1,5 +1,7 @@
 # Iman Dadgar 
-## check
+## Welcome
+I am a Ph.D .candidate in Economics at [Swedish institute for Social Research](https://www.sofi.su.se/english/)  Stockholm University. My research focuses on understanding the effect of pupils's ordinal rank  on their long term outcomes. 
+
 You can use the [editor on GitHub](https://github.com/imandadgar/imandadgar.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 this is the test I want to check how can I change the setting
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
